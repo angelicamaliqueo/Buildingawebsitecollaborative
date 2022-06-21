@@ -1,0 +1,23 @@
+body{
+    margin: 5px;
+    padding: 5px;
+}
+image{
+    width: 200px;
+    height: 200px;
+    background: white;
+    border-radius: 50%;
+    padding: 5px;
+   }
+  
+
+img{
+    width: 200px;
+    height: 150px;
+    background-color: white;
+    border-radius: 100%; 
+    float: right;
+
+}
+
+    
